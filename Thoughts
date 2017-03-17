@@ -1,0 +1,18 @@
+What we should be doing:
+1. visualise data first and analyse the data
+2.  classify the data go through SK learn - try something that is not KNN
+3. Get the trained model
+4. Return a prediction - although we are not too concerned about accuracy.
+
+The point is the insight we get into this data.
+
+
+Potential features:
+- Director_name?
+- imdb_score?
+- Check if there is any correlation between number of critic voters for reviews and the genre?
+- Check if there is any correlation between number of user voters for reviews and the genre?
+- Duration?
+- How much did it earn - gross?
+- actor(s)?
+- title_year?
